@@ -1,5 +1,5 @@
 # AUTOMATE-e-MAIL
-This python program sends our email to receiver automatically without asking our login credentials every time ....!
+This python program sends our email to receiver(s) automatically without asking our login credentials every time ....!
 
 NOTE:FOR THIS PROGRAM TO WORK,"ALLOW LESS SECURE APPS" IN EMAIL SETTINGS.
 ----------------------------------------------------------------------------------
